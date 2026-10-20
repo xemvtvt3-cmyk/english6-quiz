@@ -1,0 +1,8 @@
+{
+  "name": "english6-units1-3-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "English 6 Units 1-3 quiz with Supabase-backed submissions",
+  "engines": { "node": "20.x" },
+  "dependencies": { "@supabase/supabase-js": "^2.57.0" }
+}
